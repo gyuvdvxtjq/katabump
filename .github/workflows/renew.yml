@@ -72,3 +72,5 @@ jobs:
               gh run delete "$run_id" || true
             fi
           done
+
+# workflow registration ping
